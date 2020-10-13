@@ -15,4 +15,7 @@ The easiest way to install is through SideQuest. An alternative is to sideload t
  
 # Related Resources
 
+ * [Website](https://www.travrsal.com)
+ * [Custom Worlds SDK](https://github.com/WetzoldStudios/traVRsal-sdk)
+ * [Discuss on Discord](https://discord.gg/67fNz4F)
  * [Developer Blog](https://blog.wetzold.com/)
