@@ -13,19 +13,9 @@ The easiest way to install is through SideQuest. An alternative is to sideload t
 
  * [SideQuest App Page](https://sdq.st/a-449)
 
-Hint: For better immersion it is recommendable to either reduce the Guardian sensitivity or set some padding in the settings of traVRsal so that it will not pop up.
+Hint: For better immersion it is recommendable to either **reduce the Guardian sensitivity** or set some padding in the settings of traVRsal so that it will not pop up.
 
-## Using Custom Gallery Images
-
-The gallery supports two modes:
-
- * Unsplash: loads the latest amazing photos live from Unsplash.com
- * Device: loads png and jpg images from your device
- 
- The path where to store images on the device depends on the device:
- 
- * Oculus Quest: Android\data\com.wetzold.travrsal\files\UserImages
- * PC: C:\Users\YOURUSER\AppData\LocalLow\Wetzold Studios\traVRsal\UserImages
+For a description of traVRsal features, check out the [wiki](https://github.com/WetzoldStudios/traVRsal/wiki).
   
 # Related Resources
 
